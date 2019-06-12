@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/mainbackground">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!--android:gravity="center"-->
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:layout_marginTop="200dp"
+            android:layout_marginLeft="20dp">
+
+            <ImageButton
+                android:id="@+id/reservationButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00ff0000"
+                android:padding="40dp"
+                android:src="@drawable/reservationbutton"
+                android:onClick="goReserv"/>
+
+            <ImageButton
+                android:id="@+id/reservationListButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00ff0000"
+                android:padding="40dp"
+                android:src="@drawable/reservationlistbutton"
+                android:onClick="goReservL"/>
+
+            <ImageButton
+                android:id="@+id/mapButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00ff0000"
+                android:padding="40dp"
+                android:src="@drawable/mapbutton"
+                android:onClick="goMap"/>
+
+
+        </GridLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

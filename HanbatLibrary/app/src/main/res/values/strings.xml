@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HanbatLibrary</string>
+    <string name="book1">골든아워1 - 이국종 저 | 흐름 출판 | 2018년 10월</string>
+    <string name="book2">12가지 인생의 법칙 - 조던 B. 피터슨 저 | 메이븐 | 2018년 10월</string>
+    <string name="book3">트렌드 코리아 2019 - 권정윤 외 저 | 미래의 창 | 2018년 10월</string>
+    <string name="book4">골든아워2 - 이국종 저 | 흐름출판 | 2018년 10월</string>
+    <string name="book5">수미네 반찬 - 아쉬미노프 저 | 성안당 | 2018년 10월</string>
+    <string name="book6">죽고 싶지만 떡볶이는 먹고 싶어 - 백세희 저 | 혼 | 2018년 6월</string>
+    <string name="book7">나는 나로 살기로 했다 - 김수현 저 | 마음의 숲 | 2016년 11월</string>
+    <string name="book8">설민석의 한국사 대모험 8 - 설민석 글/정현희 그림 | 아이휴먼 | 2018년 10월</string>
+    <string name="book9">돌이킬 수 없는 약속 - 야쿠마루 카쿠 저/김성미 역 | 북플라자 | 2017년 02월</string>
+    <string name="check">예약 하려는 도서를 클릭해 주세요</string>
+    <string name="list">예약한 도서목록</string>
+</resources>

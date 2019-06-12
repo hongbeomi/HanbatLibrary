@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/reservationbackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="0dp"
+        android:layout_marginTop="150dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            />
+        <Button
+            android:id="@+id/book1"
+            android:text="@string/book1"
+            android:textSize="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/btn"
+            />
+
+        <Button
+            android:id="@+id/book2"
+            android:text="@string/book2"
+            android:textSize="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/btn"
+            android:layout_marginVertical="9dp"/>
+
+        <Button
+            android:id="@+id/book3"
+            android:text="@string/book3"
+            android:textSize="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/btn"/>
+
+        <Button
+            android:id="@+id/book4"
+            android:text="@string/book4"
+            android:textSize="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/btn"
+            android:layout_marginVertical="9dp"/>
+
+        <Button
+            android:id="@+id/book5"
+            android:text="@string/book5"
+            android:textSize="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/btn"/>
+
+        <Button
+            android:id="@+id/book6"
+            android:text="@string/book6"
+            android:textSize="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/btn"
+            android:layout_marginVertical="9dp"/>
+
+        <Button
+            android:id="@+id/book7"
+            android:text="@string/book7"
+            android:textSize="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/btn"/>
+
+        <Button
+            android:id="@+id/book8"
+            android:text="@string/book8"
+            android:textSize="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/btn"
+            android:layout_marginVertical="9dp"/>
+
+        <Button
+            android:id="@+id/book9"
+            android:text="@string/book9"
+            android:textSize="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="22dp"
+            android:layout_marginRight="22dp"
+            android:background="@drawable/btn"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
