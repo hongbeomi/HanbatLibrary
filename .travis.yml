@@ -30,6 +30,8 @@ android:
      - 'android-sdk-license-.+'
 
 before_install:
+  - pwd
+  - ls -la
   - chmod +x gradlew
   - android list targets
   - echo no | android create avd --force -n test -t android-21 --abi armeabi-v7a
