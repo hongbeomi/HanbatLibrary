@@ -1,7 +1,7 @@
 # HanbatLibrary-Project
 > 안드로이드 스튜디오 기반의 한밭대학교 도서관 앱 개발 프로젝트 입니다.
 
-![GitHub top language](https://img.shields.io/github/languages/top/hongbeomi/HanbatLibrary.svg?color=orange&logo=java)  ![GitHub repo size](https://img.shields.io/github/repo-size/hongbeomi/HanbatLibrary.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/hongbeomi/HanbatLibrary.svg?color=skyblue&logo=java)  ![GitHub repo size](https://img.shields.io/github/repo-size/hongbeomi/HanbatLibrary.svg) 
 
 ## What?
 
